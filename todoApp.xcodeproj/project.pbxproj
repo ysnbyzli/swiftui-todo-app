@@ -8,11 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		4C32069D28A9146800FB7E3A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 4C32069C28A9146800FB7E3A /* README.md */; };
-		4C3206A228A9152F00FB7E3A /* Screen Shot 2022-08-14 at 14.34.01.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C3206A128A9152F00FB7E3A /* Screen Shot 2022-08-14 at 14.34.01.png */; };
-		4C3206A428A915CE00FB7E3A /* Screen Shot 2022-08-14 at 14.36.40.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C3206A328A915CE00FB7E3A /* Screen Shot 2022-08-14 at 14.36.40.png */; };
-		4C3206A628A915FB00FB7E3A /* Screen Shot 2022-08-14 at 14.37.23.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C3206A528A915FB00FB7E3A /* Screen Shot 2022-08-14 at 14.37.23.png */; };
-		4C3206A828A9160500FB7E3A /* Screen Shot 2022-08-14 at 14.37.37.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C3206A728A9160500FB7E3A /* Screen Shot 2022-08-14 at 14.37.37.png */; };
-		4C3206AA28A9165C00FB7E3A /* Screen Shot 2022-08-14 at 14.39.04.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C3206A928A9165C00FB7E3A /* Screen Shot 2022-08-14 at 14.39.04.png */; };
 		4C32843F28A795660047E5F7 /* todoAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C32843E28A795660047E5F7 /* todoAppApp.swift */; };
 		4C32844328A795680047E5F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C32844228A795680047E5F7 /* Assets.xcassets */; };
 		4C32844628A795680047E5F7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C32844528A795680047E5F7 /* Preview Assets.xcassets */; };
@@ -26,11 +21,6 @@
 
 /* Begin PBXFileReference section */
 		4C32069C28A9146800FB7E3A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		4C3206A128A9152F00FB7E3A /* Screen Shot 2022-08-14 at 14.34.01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-14 at 14.34.01.png"; path = "../../../../../../../../var/folders/wp/g92_572d5lz8tbs7cj2d4xfc0000gn/T/TemporaryItems/NSIRD_screencaptureui_Lz1r4q/Screen Shot 2022-08-14 at 14.34.01.png"; sourceTree = "<group>"; };
-		4C3206A328A915CE00FB7E3A /* Screen Shot 2022-08-14 at 14.36.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-14 at 14.36.40.png"; path = "../../../../../../../../var/folders/wp/g92_572d5lz8tbs7cj2d4xfc0000gn/T/TemporaryItems/NSIRD_screencaptureui_n0afhF/Screen Shot 2022-08-14 at 14.36.40.png"; sourceTree = "<group>"; };
-		4C3206A528A915FB00FB7E3A /* Screen Shot 2022-08-14 at 14.37.23.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-14 at 14.37.23.png"; path = "../../../../../../../../var/folders/wp/g92_572d5lz8tbs7cj2d4xfc0000gn/T/TemporaryItems/NSIRD_screencaptureui_aZpj5W/Screen Shot 2022-08-14 at 14.37.23.png"; sourceTree = "<group>"; };
-		4C3206A728A9160500FB7E3A /* Screen Shot 2022-08-14 at 14.37.37.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-14 at 14.37.37.png"; path = "../../../../../../../../var/folders/wp/g92_572d5lz8tbs7cj2d4xfc0000gn/T/TemporaryItems/NSIRD_screencaptureui_LK1zuN/Screen Shot 2022-08-14 at 14.37.37.png"; sourceTree = "<group>"; };
-		4C3206A928A9165C00FB7E3A /* Screen Shot 2022-08-14 at 14.39.04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2022-08-14 at 14.39.04.png"; path = "../../../../../../../../var/folders/wp/g92_572d5lz8tbs7cj2d4xfc0000gn/T/TemporaryItems/NSIRD_screencaptureui_SRVfIw/Screen Shot 2022-08-14 at 14.39.04.png"; sourceTree = "<group>"; };
 		4C32843B28A795660047E5F7 /* todoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = todoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C32843E28A795660047E5F7 /* todoAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = todoAppApp.swift; sourceTree = "<group>"; };
 		4C32844228A795680047E5F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -54,18 +44,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4C32069E28A9148B00FB7E3A /* Screenshot */ = {
-			isa = PBXGroup;
-			children = (
-				4C3206A928A9165C00FB7E3A /* Screen Shot 2022-08-14 at 14.39.04.png */,
-				4C3206A728A9160500FB7E3A /* Screen Shot 2022-08-14 at 14.37.37.png */,
-				4C3206A528A915FB00FB7E3A /* Screen Shot 2022-08-14 at 14.37.23.png */,
-				4C3206A328A915CE00FB7E3A /* Screen Shot 2022-08-14 at 14.36.40.png */,
-				4C3206A128A9152F00FB7E3A /* Screen Shot 2022-08-14 at 14.34.01.png */,
-			);
-			path = Screenshot;
-			sourceTree = "<group>";
-		};
 		4C32843228A795660047E5F7 = {
 			isa = PBXGroup;
 			children = (
@@ -85,7 +63,6 @@
 		4C32843D28A795660047E5F7 /* todoApp */ = {
 			isa = PBXGroup;
 			children = (
-				4C32069E28A9148B00FB7E3A /* Screenshot */,
 				4C32845828A7A0F40047E5F7 /* ViewModels */,
 				4C32845528A79B8A0047E5F7 /* Models */,
 				4C32844E28A7965B0047E5F7 /* Views */,
@@ -192,11 +169,6 @@
 			files = (
 				4C32069D28A9146800FB7E3A /* README.md in Resources */,
 				4C32844628A795680047E5F7 /* Preview Assets.xcassets in Resources */,
-				4C3206AA28A9165C00FB7E3A /* Screen Shot 2022-08-14 at 14.39.04.png in Resources */,
-				4C3206A428A915CE00FB7E3A /* Screen Shot 2022-08-14 at 14.36.40.png in Resources */,
-				4C3206A828A9160500FB7E3A /* Screen Shot 2022-08-14 at 14.37.37.png in Resources */,
-				4C3206A628A915FB00FB7E3A /* Screen Shot 2022-08-14 at 14.37.23.png in Resources */,
-				4C3206A228A9152F00FB7E3A /* Screen Shot 2022-08-14 at 14.34.01.png in Resources */,
 				4C32844328A795680047E5F7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
